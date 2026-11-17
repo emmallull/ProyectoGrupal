@@ -1,1 +1,3 @@
-Print("Bienvenido a Proyecto Grupo")
+print("Bienvenido a Proyecto Grupo")
+
+print("Bona nit")
